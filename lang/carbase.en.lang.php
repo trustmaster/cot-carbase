@@ -1,0 +1,33 @@
+<?php
+$L['at'] = 'at';
+$L['Add_car'] = 'Add another car';
+$L['Added'] = 'Added';
+$L['Automatic'] = 'Automatic';
+$L['Bought'] = 'Year bought';
+$L['Built'] = 'Year built';
+$L['ccm'] = 'ccm';
+$L['Car_description'] = 'Car description';
+$L['cylinder'] = 'cylinder';
+$L['Cylinders'] = 'Cylinders';
+$L['Delete_car'] = 'Delete this car?';
+$L['Description'] = 'Description';
+$L['Diesel'] = 'Diesel';
+$L['Engine'] = 'Engine';
+$L['Fuel'] = 'Fuel';
+$L['Gasoline'] = 'Gasoline';
+$L['Manual'] = 'Manual';
+$L['Model'] = 'Model';
+$L['kW'] = 'kW';
+$L['Owned_cars'] = 'Owned Cars';
+$L['Owner'] = 'Owner';
+$L['Performance'] = 'Performance';
+$L['Photo'] = 'Photo';
+$L['Photos'] = 'Photos';
+$L['PS'] = 'PS';
+$L['Return'] = 'Return';
+$L['RPM'] = 'RPM';
+$L['Transmission'] = 'Transmission';
+$L['Valves'] = 'Valves';
+$L['Views'] = 'Views';
+$L['Volume'] = 'Volume';
+?>
